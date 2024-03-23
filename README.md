@@ -2,7 +2,10 @@
 </br>
 
 <p>Project Design👇👇</p>
-![Screenshot](<Screenshot 2024-03-23 at 10.03.02 AM.png>)
+
+  <img src="./Screenshot 2024-03-23 at 10.03.02 AM.png" width="350" title="hover text">
+
+
 </hr>
 <p>to view online</p>
 
