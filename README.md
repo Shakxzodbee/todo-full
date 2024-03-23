@@ -2,7 +2,7 @@
 </br>
 
 <p>Project Design👇👇</p>
-![alt image](<Screenshot 2024-03-23 at 10.03.02 AM.png>)
+![Screenshot](<Screenshot 2024-03-23 at 10.03.02 AM.png>)
 </hr>
 <p>to view online</p>
 
